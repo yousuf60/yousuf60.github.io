@@ -1,0 +1,51 @@
+
+#center-card{
+	width: 70%;
+	border-radius:20px;
+	margin: 0 auto;
+	margin-top: 5%;
+	background-color:rgba(0,0,0,.5);
+	
+}
+body{
+	background-image:url("../data/bg.jpg");
+	background-color: #34267E;
+}
+
+
+#profile-img{
+	margin-top: 20px;
+	border-radius:100%;
+	width:35%;
+	min-width:100px; 
+	max-width:200px;
+}
+
+h3{
+	color:#CEC8EF;
+}
+
+a{
+	transition-duration:.3s;
+	background:rgba(102, 82, 204,.8);
+	display:block;
+	border:none;
+	border-radius: 10px;
+	color: white;
+	text-decoration:none;
+	text-align:center;
+	padding: .4cm ;
+	margin: 20px;
+	
+	
+}
+
+#br{
+	margin-bottom: -3%;
+}
+
+a:hover{
+	background: #AFA5E4;
+	color: black;
+ 	
+}
